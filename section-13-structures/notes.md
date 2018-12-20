@@ -139,4 +139,3 @@ I guess arrays are also pass by value in C
 
 The main different is that C functions can't return functions
 
-## Reading and Writing Files
